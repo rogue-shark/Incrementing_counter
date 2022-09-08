@@ -1,4 +1,4 @@
-<h1 align="center">Rotating Navigation</h1>
+<h1 align="center">Sub Incrementing Counter</h1>
 
 <div align="center">
    #50days50projects</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://rogue-shark.github.io/Incrementing_counter">
       D E M O
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/rogue-shark/Incrementing_counter">
       Solution
   </h3>
 </div>
